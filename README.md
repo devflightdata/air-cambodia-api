@@ -4,7 +4,7 @@ Track **Air Cambodia** (IATA `K6`, ICAO `KHV`, Cambodia) flights programmaticall
 
 This repo has ready-to-run examples (cURL, Python, Node.js) that pull Air Cambodia data by its airline code `K6`. Change the code and the same examples work for any of the 1,000+ airlines AirLabs covers.
 
-> **Full reference:** [Air Cambodia Developer API](https://airlabs.co/air-cambodia-developer-api)
+> **Full reference:** [Air Cambodia Developer API](https://airlabs.co/cambodia-angkor-air-developer-api)
 > **Free API key:** [airlabs.co/signup](https://airlabs.co/signup)
 
 ## What you can pull for Air Cambodia
@@ -90,7 +90,7 @@ Every time field also comes as UTC (`_utc`) and a Unix timestamp (`_ts`).
 
 1. Get a **free API key** at [airlabs.co/signup](https://airlabs.co/signup)
 2. Clone this repo and drop your key into the examples in [`/examples`](./examples)
-3. Read the full [Air Cambodia API reference](https://airlabs.co/air-cambodia-developer-api) and the [AirLabs docs](https://airlabs.co/docs/)
+3. Read the full [Air Cambodia API reference](https://airlabs.co/cambodia-angkor-air-developer-api) and the [AirLabs docs](https://airlabs.co/docs/)
 
 ## About
 
